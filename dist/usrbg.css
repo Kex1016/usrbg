@@ -1701,3 +1701,9 @@
 [aria-label*="438846426441711616,"] {
 	--user-background: url('https://66.media.tumblr.com/b428c79001accaf917356c4b3dd20fbf/tumblr_pv3boxpfhY1y6ld9uo8_1280.gif');
 }
+
+/*Kex#2320*/
+[user_by_bdfdb*="147709526357966848"],
+[aria-label*="147709526357966848,"] {
+	--user-background: url('https://i.imgur.com/DnaYHOd.jpg');
+}
